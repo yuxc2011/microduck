@@ -2,6 +2,25 @@ https://github.com/search?q=microduck&type=repositories
 https://github.com/AI-FanGe/Microduck-build-tutorial.git
 https://github.com/fanhao375/microduck-replica
 https://github.com/fanhao375/microduck-replica-cad
+
+![微信群](Readme.jpg)
+
+
+ZERO 3W & 3E 操作指南：
+https://docs.radxa.com/zero/zero3
+ZERO 3W参数介绍：
+https://radxa.com/products/zeros/zero3w#techspec
+ZERO 3E参数介绍
+https://radxa.com/products/zeros/zero3e#techspec
+ZERO 3E PoE hat操作指南：
+https://docs.radxa.com/zero/zero3/accessories/3e-poe-hat
+3W开源资料（规格书/原理图/位号图/3D图/2D图）：
+https://radxa.com/products/zeros/zero3w#downloads
+3E开源资料（规格书/原理图/位号图/3D图/2D图）：
+https://radxa.com/products/zeros/zero3e#downloads
+注意：超过 5V的供电会烧坏板子。如使用 Type-℃ 供电，请使用标准 PD 适配器(或 5V)和线材，请勿使用诱导线，请问使用【华为】或【荣耀】的电源。
+
+
 Microduck 复刻更新 
 
 专门改成适配国产飞特舵机版本，重新修改了腿部、头部干涉零件，解决原版装配卡滞问题。
